@@ -1,0 +1,7 @@
+projectile n
+element Mo
+mass 100
+energy n0-20.grid
+strength 8
+outgamma y
+gnorm 1
